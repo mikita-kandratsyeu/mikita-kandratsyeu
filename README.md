@@ -13,7 +13,7 @@
 
 #### Technologies:
 - JavaScript, TypeScript
-- ReactJS, React Native, Redux
+- ReactJS, NextJS, React Native, Redux
 - (X)HTML, (X)CSS, SCSS
 - NodeJS, ExpressJS
 
