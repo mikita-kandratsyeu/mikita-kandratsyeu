@@ -1,6 +1,6 @@
 ### Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="25" width="25"/>
 
-#### Software Engineer with 2+ years in the Web and Mobile Development
+#### Software Engineer with 3+ years in the Web and Mobile Development
 
 #### Primary skills:
 - JavaScript, TypeScript
