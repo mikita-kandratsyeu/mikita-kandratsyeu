@@ -1,6 +1,6 @@
 ### Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="25" width="25"/>
 
-#### Software Engineer with 3+ years in the Web and Mobile Development
+#### Software Engineer with 3+ years in the Web and Mobile Development.
 
 #### Primary skills:
 - JavaScript, TypeScript
@@ -21,4 +21,4 @@
 - Experience in creating responsive, cross-browser and cross-device layouts (iOS/Android browsers)
 - Experience in mentoring and interviewing people
 
-#### My English level is B1 (speaking) and B2 (writing) - according to Common European Framework of Reference (CEFR)
+#### My English level is B1 (speaking) and B2 (writing) - according to Common European Framework of Reference (CEFR).
