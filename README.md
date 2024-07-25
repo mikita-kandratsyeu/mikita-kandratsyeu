@@ -5,7 +5,7 @@
 #### Primary skills:
 - JavaScript, TypeScript
 - ReactJS, React Native, NextJS
-- NodeJS, ExpressJS
+- NodeJS
 
 #### Responsibilities and roles:
 - Full-stack development
