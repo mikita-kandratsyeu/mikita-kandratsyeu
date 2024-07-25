@@ -1,10 +1,10 @@
 ### Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="25" width="25"/>
 
-#### Software Engineer with 3+ years in the Web and Mobile Development.
+#### Senior Software Engineer with 3+ years in the Web and Mobile Development.
 
 #### Primary skills:
 - JavaScript, TypeScript
-- ReactJS, React Native, NextJS, Redux
+- ReactJS, React Native, NextJS
 - NodeJS, ExpressJS
 
 #### Responsibilities and roles:
