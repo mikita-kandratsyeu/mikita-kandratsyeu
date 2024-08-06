@@ -1,6 +1,6 @@
 ### Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="25" width="25"/>
 
-#### Senior Software Engineer with 3+ years in the Web and Mobile Development.
+#### Senior Software Engineer with 4+ years in the Web and Mobile Development.
 
 #### Primary skills:
 - JavaScript, TypeScript
