@@ -19,5 +19,3 @@
 - Experience in cross-platform mobile development
 - Experience in creating responsive, cross-browser and cross-device layouts (iOS/Android browsers)
 - Experience in mentoring and interviewing people
-
-#### My English level is B1+ (speaking) and B2 (writing) - according to Common European Framework of Reference (CEFR).
