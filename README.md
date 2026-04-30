@@ -1,21 +1,18 @@
 ### Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="25" width="25"/>
 
-#### Senior Software Engineer with 5+ years in the Web and Mobile Development.
+#### Senior Software Engineer with 5+ years of experience building web and mobile applications using TypeScript, React, Next.js, React Native, and Node.js.
 
-#### Primary skills:
-- JavaScript, TypeScript
-- React.js, Next.js, React Native
+I focus on developing scalable user-facing products, leading frontend implementation, contributing to architecture decisions, and supporting delivery across the full development lifecycle — from feature development to release management and production issue resolution.
+
+I have experience working on large and complex solutions, including responsive web applications, server-rendered UI platforms, and cross-platform mobile apps. In addition to hands-on development, I actively contribute through code reviews, mentoring, technical interviews, and team support.
+
+#### Core areas of expertise:
+- TypeScript, JavaScript
+- React, React Native, Next.js
 - Node.js
+- Frontend architecture
+- SSR and API integrations
+- Release management and delivery processes
+- Code review, refactoring, mentoring
 
-#### Responsibilities and roles:
-- Full-stack development
-- Establishing releasing and continuous delivery processes
-- Code reviewing and code refactoring
-- Advising team members about problem-solving
-- Mentorship
-
-#### Accomplishments:
-- Experience in development of large and complex Web solutions
-- Experience in cross-platform mobile development
-- Experience in creating responsive, cross-browser and cross-device layouts (iOS/Android browsers)
-- Experience in mentoring and interviewing people
+I enjoy solving complex engineering problems, improving code quality, and helping teams deliver reliable and maintainable software.
